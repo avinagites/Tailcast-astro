@@ -26,7 +26,7 @@ export const InvitationModal = ({ setIsOpen }) => (
                 Subscribe Now
               </h2>
               <h2 className="text-5xl font-bold tracking-normal text-customSecondary">
-                Winter is coming
+                Webapp is coming soon
               </h2>
 
               <ul className="mb-6 text-white mt-12">
@@ -50,12 +50,12 @@ export const InvitationModal = ({ setIsOpen }) => (
                   <TailcastLogo />
                 </div>
                 <div className="text-white font-['Inter'] font-bold text-3xl">
-                  Tailcast
+                  Nitimi
                 </div>
               </div>
 
               <h3 className="mb-7 text-2xl text-white font-bold leading-snug text-center">
-                Join 3,953 other developers
+                Join 3,953 other members
               </h3>
               <div className="flex flex-wrap -m-2">
                 <div className="w-full sm:w-4/5 p-2 mx-auto">
